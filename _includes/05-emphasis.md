@@ -1,2 +1,2 @@
-*This text will be italics*
-**this text will be bold**
+*Real is rare*
+**Nothing is impossible**
